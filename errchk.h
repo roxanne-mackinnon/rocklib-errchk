@@ -1,5 +1,5 @@
 /**
- * errchk.h - A garbage collector for the average C programmer
+ * errchk.h - Error correction routines based on CRC-3
  * 
  *  Copyright (C) 2021, Roxanne MacKinnon
  *

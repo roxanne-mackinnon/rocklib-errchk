@@ -1,5 +1,5 @@
 /**
- * errchk.c - Implementation of routines in errchk.h
+ * errchk.c - Error correction routines based on CRC-3
  * 
  *  Copyright (C) 2021, Roxanne MacKinnon
  *
